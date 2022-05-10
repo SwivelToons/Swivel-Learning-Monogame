@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Fortnite
+namespace LearningMonoGame
 {
     public static class Program
     {
