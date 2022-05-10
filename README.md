@@ -11,4 +11,4 @@ https://docs.monogame.net/articles/getting_started/
 
 https://medium.com/learning-c-by-developing-games/getting-started-with-c-monogame-in-vs-code-2c26c7f198c2
 # How often will I update this Repo?
-Whenever I fell enough new things have been added to the project.
+Whenever I feel enough new things have been added to the project.
